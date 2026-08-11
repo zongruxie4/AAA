@@ -381,6 +381,15 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 - [x] [GitHub](https://github.com/KotatsuApp/Kotatsu)
 - [x] [Official page](https://kotatsu.app/)
 
+### IReader
+
+<img alt="IReaderIcon" height="64" src="https://raw.githubusercontent.com/IReaderorg/IReader/master/android/src/devPreview/res/mipmap-xxxhdpi/ic_launcher_monochrome.png">
+
+- [ ] Google Play
+- [ ] F-Droid
+- [x] [GitHub](https://github.com/IReaderorg/IReader)
+- [ ] Official page
+
 ## App Backup
 
 ### Neo Backup
