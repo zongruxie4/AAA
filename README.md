@@ -25,7 +25,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 - [x] Has dark theme
   > [More detailed explanation here.](RULES.md)
 
-**AWESOME** apps counter: **268** 🎉
+**AWESOME** apps counter: **269** 🎉
 
 ### Contents
 
@@ -1388,13 +1388,14 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 - [ ] Official page
 
 ### Fcitx5 for Android :heart:
+
 <img alt="Fcitx5ForAndroidIcon" height="64" src="https://raw.githubusercontent.com/fcitx5-android/fcitx5-android/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png">
 
 > Supports input for Chinese, Japanese, Korean, and more
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=org.fcitx.fcitx5.android)
 - [x] [F-Droid](https://f-droid.org/packages/org.fcitx.fcitx5.android/)
-- [x] [Source code](https://github.com/fcitx5-android/fcitx5-android)
+- [x] [GitHub](https://github.com/fcitx5-android/fcitx5-android)
 - [x] [Official page](https://fcitx5-android.github.io/en/)
 
 ### FlorisBoard
@@ -1415,6 +1416,17 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.dessalines.thumbkey)
 - [x] [F-Droid](https://f-droid.org/en/packages/com.dessalines.thumbkey/)
 - [x] [GitHub](https://github.com/dessalines/thumb-key)
+- [ ] Official page
+
+### Unexpected Keyboard
+
+<img alt="UnexpectedKeyboardIcon" height="64" src="https://raw.githubusercontent.com/Julow/Unexpected-Keyboard/master/res/mipmap-xxxhdpi/ic_launcher.png">
+
+> Lightweight and privacy-conscious keyboard, originally designed for Termux
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=juloo.keyboard2)
+- [x] [F-Droid](https://f-droid.org/packages/juloo.keyboard2/)
+- [x] [GitHub](https://github.com/Julow/Unexpected-Keyboard)
 - [ ] Official page
 
 ## Knowledge
