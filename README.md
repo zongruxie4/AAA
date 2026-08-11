@@ -388,7 +388,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 - [ ] Google Play
 - [ ] F-Droid
 - [x] [GitHub](https://github.com/IReaderorg/IReader)
-- [ ] Official page
+- [x] [Official page](https://ireaderorg.netlify.app/)
 
 ## App Backup
 
