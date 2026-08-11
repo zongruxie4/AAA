@@ -383,14 +383,14 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 - [x] [GitHub](https://github.com/jobobby04/TachiyomiSY)
 - [ ] Official page
 
-### Kotatsu
+### Kotatsu-Redo
 
-<img alt="KotatsuIcon" height="64" src="https://raw.githubusercontent.com/KotatsuApp/Kotatsu/devel/metadata/en-US/icon.png">
+<img alt="Kotatsu-RedoIcon" height="64" src="https://raw.githubusercontent.com/KotatsuApp/Kotatsu/devel/metadata/en-US/icon.png">
 
 - [ ] Google Play
-- [x] [F-Droid](https://f-droid.org/packages/org.koitharu.kotatsu/)
-- [x] [GitHub](https://github.com/KotatsuApp/Kotatsu)
-- [x] [Official page](https://kotatsu.app/)
+- [ ] F-Droid
+- [x] [GitHub](https://github.com/Kotatsu-Redo/Kotatsu-Redo)
+- [ ] Official page
 
 ### IReader
 
