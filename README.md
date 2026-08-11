@@ -873,6 +873,15 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 - [x] [GitHub](https://github.com/NeoApplications/Neo-Store)
 - [ ] Official page
 
+### Florid
+
+<img alt="FloridIcon" height="64" src="https://raw.githubusercontent.com/Nandanrmenon/florid/main/assets/Florid.svg">
+
+* [ ] Google Play
+* [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.nahnah.florid)
+* [x] [GitHub](https://github.com/Nandanrmenon/florid)
+* [x] [Official page](https://www.nandanmenon.dev/florid)
+
 ## File Manager
 
 ### Material Files :heart:
@@ -1555,6 +1564,15 @@ Currently being reworked as Neo Launcher.
 - [x] [F-Droid](https://f-droid.org/en/packages/app.organicmaps/)
 - [x] [GitHub](https://github.com/organicmaps/organicmaps)
 - [x] [Official page](https://organicmaps.app/)
+
+### CoMaps
+
+<img alt="CoMapsIcon" height="64" src="https://codeberg.org/comaps/comaps/media/branch/main/docs/badges/logo.svg">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=app.comaps.google)
+- [x] [F-Droid](https://f-droid.org/ru/packages/app.comaps.fdroid/)
+- [x] [GitHub](https://github.com/comaps/comaps) / [Codeberg](https://codeberg.org/comaps/comaps)
+- [x] [Official page](https://www.comaps.app/)
 
 ### OsmAnd
 
