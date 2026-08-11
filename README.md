@@ -25,7 +25,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 - [x] Has dark theme
   > [More detailed explanation here.](RULES.md)
 
-**AWESOME** apps counter: **272** 🎉
+**AWESOME** apps counter: **273** 🎉
 
 ### Contents
 
@@ -864,15 +864,6 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 - [x] [F-Droid](https://f-droid.org/en/packages/org.fdroid.fdroid/)
 - [x] [GitLab](https://gitlab.com/fdroid/fdroidclient)
 - [x] [Official page](https://f-droid.org/)
-
-### Aurora Droid
-
-<img alt="AuroraDroidIcon" height="64" src="https://gitlab.com/AuroraOSS/auroradroid/-/raw/master/app/src/main/ic_launcher-web.png">
-
-- [ ] Google Play
-- [ ] F-Droid
-- [x] [GitLab](https://gitlab.com/AuroraOSS/auroradroid)
-- [x] [Official page](https://auroraoss.com/)
 
 ### Droid-ify :heart:
 
